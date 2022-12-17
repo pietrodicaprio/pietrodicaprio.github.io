@@ -1,12 +1,12 @@
 ---
 title: Privacy Policy
-description: mirko.pm's Privacy Policy
+description: pietrodicaprio.github.io's Privacy Policy
 layout: page
 ---
 *Information pursuant to art. 13 of the Privacy Code*
 > In accordance with article 13 of the code of Legislative Decree 196/2003, we provide you with the following information.
 
-We at **https://mirko.pm** believe that the privacy of our visitors is extremely important. This document describes in detail the types of personal information collected and recorded by our site and how it is used
+We at **https://pietrodicaprio.github.io** believe that the privacy of our visitors is extremely important. This document describes in detail the types of personal information collected and recorded by our site and how it is used
 
 ### Registration Files (Log Files)
 
@@ -50,9 +50,9 @@ In accordance with art. 7 (Right of access to personal data and other rights) of
 
 We point out that the data controller for all legal purposes is:
 
-*   **mirko.pm (Mirko Brombin)**
+*   **pietrodicaprio.github.io (Mirko Brombin)**
 *   Treviso (TV)
-*   E-mail: send[at]mirko.pm
+*   E-mail: send[at]pietrodicaprio.github.io
 
 To exercise the rights provided for in art. 7 of the Privacy Code or to delete your data from the archive, simply contact us through one of the channels provided
 
