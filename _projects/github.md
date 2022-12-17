@@ -1,7 +1,7 @@
 ---
 name: github.com
 links: 
-    - link: "https://github.com/mirkobrombin"
+    - link: "https://github.com/pietrodicaprio"
       icon: logo-github
       name: Go to my GitHub profile
 ---
