@@ -1,5 +1,8 @@
 @media screen and (max-width:745px) {
-    header .wrapper {}
+    header .wrapper {
+        display: flex;
+        flex-direction: column;
+    }
 
     nav {
         display: none;
@@ -16,7 +19,7 @@
     nav.show {
         display: block;
         position: fixed;
-        top: 84px;
+        top: 204px;
         left: 10px;
         right: 10px;
     }
@@ -24,5 +27,17 @@
     .cards {
         display: flex;
         flex-direction: column;
+    }
+
+    .logo {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+    }
+
+    header {
+        display: flex;
+        align-items: flex-start;
     }
 }

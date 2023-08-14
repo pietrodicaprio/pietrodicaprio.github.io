@@ -1,8 +1,8 @@
 /* Body */
 body,
 button {
-    font-family: Martel, serif;
-    font-size: 1.1em;
+    font-family: Kadwa, serif;
+    font-size: .98em;
 }
 
 /* Transitions */
@@ -16,6 +16,7 @@ button {
 .wrapper {
     max-width: 68rem;
     margin: 0 auto;
+    width: 100%;
 }
 
 /* Main */
@@ -57,13 +58,14 @@ h4,
 h5,
 h6 {
     margin-bottom: .2em;
-line-height: 1.3em;}
+    line-height: 1.3em;
+}
 
 .logo,
 h1,
 h2,
 h3 {
-    font-family: 'Arvo', serif;
+    font-family: 'Kadwa', serif;
 }
 
 h1 {
@@ -76,6 +78,7 @@ h2 {
 
 h3 {
     font-size: 1.1em;
+    font-weight: 600;
 }
 
 h1,
@@ -96,9 +99,10 @@ hr {
 /* Header */
 header {
     padding: 1.5rem 2rem;
-    position: sticky;
-    top: 0;
-    z-index: 9;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 header .wrapper {
@@ -129,12 +133,14 @@ footer {
 nav ul {
     display: flex;
     flex-direction: row;
-    gap: 15px;
+    gap: 22px;
     align-items: center;
 }
 
 nav li a.active {
     font-weight: 600;
+    position: relative;
+    z-index: 1;
 }
 
 nav a {
@@ -147,10 +153,9 @@ li.dropdown ul {
     position: absolute;
     left: -6px;
     right: -6px;
-    top: -6px;
+    top: 34px;
     z-index: 1;
-    padding: 2.7rem .5rem .36rem;
-    border-radius: 1.3em;
+    padding: .36rem 0.5rem;
     flex-direction: column;
     align-items: flex-start;
     gap: 5px;
@@ -165,7 +170,7 @@ li.dropdown ul.show {
     position: relative;
 }
 
-.dropdown button {
+.dropdown .button {
     position: relative;
     z-index: 2;
 }
@@ -173,12 +178,11 @@ li.dropdown ul.show {
 li.dropdown ul li a {
     display: block;
     font-size: .9em;
-    padding: 4px 9px;
-
+    padding: 9px 9px;
 }
 
 li.dropdown ul li {
-    border-radius: 1.3em;
+    border-radius: 5px;
 }
 
 
@@ -192,7 +196,6 @@ p {
 
 /* Article */
 article {
-    font-size: 1.2em;
     margin-bottom: 2rem;
 }
 
@@ -201,8 +204,7 @@ section article {
 }
 
 article p {
-
-    font-size: 1.1em;
+    font-size: 1.3em;
     line-height: 36px;
 }
 
@@ -266,7 +268,6 @@ article img {
 .card {
     border-radius: .5em;
     padding: 1em;
-    border: 1px solid;
 }
 
 /* Button */
@@ -274,7 +275,6 @@ article img {
     border: 0;
     text-align: center;
     font-weight: 600;
-    font-size: .78em;
     letter-spacing: .05em;
     cursor: pointer;
     display: inline-flex;
@@ -335,4 +335,66 @@ blockquote {
 blockquote,
 main>ol li {
     border-left: 3px solid;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo img {
+    width: 5rem;
+}
+
+.logo b {
+    font-size: 1.9rem;
+}
+
+.logo p {
+    font-weight: 500;
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.logo div {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.card {
+    background-color: var(--color-bg);
+    box-shadow: 0px 2px 3px 0px #0000002e;
+}
+
+nav {
+    font-size: 17px;
+}
+
+nav .button.link {
+    font-weight: 500;
+    text-decoration: none;
+}
+
+nav li a.active::after {
+    content: "";
+    position: absolute;
+    top: -3px;
+    left: -14px;
+    bottom: -1px;
+    right: -14px;
+    background: var(--color-bg);
+    border-radius: 100px;
+    z-index: -1;
+}
+
+nav ul li {
+    position: relative;
+}
+
+.card p {
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.3;
 }
