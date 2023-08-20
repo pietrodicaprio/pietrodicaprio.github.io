@@ -11,17 +11,17 @@ translation: false
 👋 Hello reader! Welcome to my blog, this looks to be my first publication…\
 I never had a blog, I'm not sure about what/how to write, please forgive me if this reading is not exciting 🥲
 
-### GUADEC 2023 @ Riga
+## GUADEC 2023 @ Riga
 ![](https://keystoneacademic-res.cloudinary.com/image/upload/f_auto/q_auto/g_auto/w_650/element/66/66791_latvia2.jpg)
 
 Many of you already know that GUADEC is the acronym for *GNOME Users And Developers European Conference*, but in 2022 has been held in Guadalajara (Mexico) and 2024 is going to be held in Denver (CO, USA) people starded using, as joke, *Everywhere* instead of *European*.\
 The conference is a place where to meet people that share interest in Linux, technology in general with particular focus on GNOME (of course!). It's a place where to share ideas, opinions and talk about many topics, not only tech oriented. It's a place where to have fun!\
 This year it was at the University of Riga. The talks in the new building while the BoFs in the old building. A place full of history that removes any thought about its old age.
 
-### Volunteering
+## Volunteering
 Not only first GUADEC but first volunteering experience too! I've been initially assigned by Deepesha B. to the registration desk, a great occasion to meet all the participants and welcome them to the event. As most people arrived I've been able to jump into the conference rooms and help there with moderation both in person and on the online chats. It made me feel very good to see the smile on the people I helped during the days. A meaningful experience!
 
-### Old friends + new friends = many friends!
+## Old friends + new friends = many friends!
 I knew that I was going to meet some folk from a previous event, the LAS 2022 in Rovereto where I presented Bottles, but, as mentioned above, those conferences are a place where to meet new people and new friends!
 The first person I met is Mauro, an Italian who just moved to Switzerland after 17 years in Taiwan (a great country to visit). He has been very kind and immediately invited me to have lunch with another bunch of people, I felt home 😃\
 Is at lunch that I met Jesús, a Mexican guy who likes to lose battles with food because his stomach is too small 😂
@@ -36,7 +36,7 @@ The most meaningful meeting of this event: [Cassidy James Blaede](https://cassid
 Is has also been a chance to meet again folks like Tobias and Sonny along with a lot of smart and friendly people from all over the world, all people that have a lot to share from tech experience and culture. That's probably the best sharing you can get participating!
 
 
-### Exciting talks
+## Exciting talks
 I've been catched by two talks in particular:
 - [How to make a delightful app listing](https://events.gnome.org/event/101/contributions/471/)
 - [How to add 16.67% more users and contributors](https://events.gnome.org/event/101/contributions/476/)
@@ -45,7 +45,7 @@ The first one, by Cassidy, talks about how apps are listed, by their developers,
 
 The second one, by Mr Aryan Kaushik and Ms Pooja Patel, is about the lack of accessibility to digital products and services: it's a journey that shows how many little important things we leave behind when developing a software or an entire product. There is many people out there with different kind of disabilities from color blindness to deafness. It's really important to always keep this in mind and as a developer is important to know the tools that can help in testing your software in order to ensure it is accessible.
 
-### My own talk
+## My own talk
 ![](https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/gaudec_2023_vos-ppt-cover.png?raw=true)
 
 I already performed some presentation but never to that kind of crowd. Bottles' presentation have been the biggest I've performed but GUADEC is another story. Bigger room, more in-person participants, more remote participants, more time to fill with the talk... it was scary 😬\
@@ -55,7 +55,7 @@ If you missed the live talk, or would like to watch it again 😶, it's availabl
 
 While if you would like to learn more about Vanilla OS feel free to visit our website https://vanillaos.org and join our community!
 
-### Final considerations
+## Final considerations
 ![](https://ilgiornaledellarchitettura.com/wp-content/uploads/2021/06/cop-riga-862x525.jpg)
 
 Riga is really nice. Thanks to the presence of the university you can safely walk in the streets of the city center and find a lot of places filled of people ready to talk to you and provide suggestions to live the city. Almost everyone speaks English!
