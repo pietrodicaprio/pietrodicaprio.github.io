@@ -12,7 +12,7 @@ translation: false
 I never had a blog, I'm not sure about what/how to write, please forgive me if this reading is not exciting 🥲
 
 ## GUADEC 2023 @ Riga
-![](https://keystoneacademic-res.cloudinary.com/image/upload/f_auto/q_auto/g_auto/w_650/element/66/66791_latvia2.jpg)
+<img class="full-w" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/latvia_university.avif?raw=true" />
 
 Many of you already know that GUADEC is the acronym for *GNOME Users And Developers European Conference*, but in 2022 has been held in Guadalajara (Mexico) and 2024 is going to be held in Denver (CO, USA) people starded using, as joke, *Everywhere* instead of *European*.\
 The conference is a place where to meet people that share interest in Linux, technology in general with particular focus on GNOME (of course!). It's a place where to share ideas, opinions and talk about many topics, not only tech oriented. It's a place where to have fun!\
@@ -31,7 +31,7 @@ Then has been time to encounter someone I already knew: Javier! One of the peopl
 
 The most meaningful meeting of this event: [Cassidy James Blaede](https://cassidyjames.com/). You may already know him but if you don't: visit his blog, it's worth it! Cassidy is a very kind person that spends time listening you and providing really miningful feedbacks and opinions if you want to share ideas. I had chance to speak with him about today's status of ODRS, the thing behind the reviews in platforms like the *GNOME Software*. The result of the discussion has been [this blog post](https://cassidyjames.com/blog/stars-thumbs-app-ratings-reviews-odrs/) by Cassidy and [this proposal](https://gitlab.gnome.org/Infrastructure/odrs-web/-/issues/24) by myself. Feel free to jump into the discussion, share your opinions and ideas. We're still working on how to proceed and any help is meaningful!
 
-![](https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/guadec_3.jpeg?raw=true)
+<img class="full-w" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/guadec_3.jpeg?raw=true" />
 
 Is has also been a chance to meet again folks like Tobias and Sonny along with a lot of smart and friendly people from all over the world, all people that have a lot to share from tech experience and culture. That's probably the best sharing you can get participating!
 
@@ -46,7 +46,7 @@ The first one, by Cassidy, talks about how apps are listed, by their developers,
 The second one, by Mr Aryan Kaushik and Ms Pooja Patel, is about the lack of accessibility to digital products and services: it's a journey that shows how many little important things we leave behind when developing a software or an entire product. There is many people out there with different kind of disabilities from color blindness to deafness. It's really important to always keep this in mind and as a developer is important to know the tools that can help in testing your software in order to ensure it is accessible.
 
 ## My own talk
-![](https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/gaudec_2023_vos-ppt-cover.png?raw=true)
+<img class="full-w" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/gaudec_2023_vos-ppt-cover.png?raw=true" />
 
 I already performed some presentation but never to that kind of crowd. Bottles' presentation have been the biggest I've performed but GUADEC is another story. Bigger room, more in-person participants, more remote participants, more time to fill with the talk... it was scary 😬\
 But, hey, I did it! And it has been awesome! It has been very exciting to see people smiling and being interested in the topic, making questions at the end of the talk and after in the hallway as the time was up for my slot. It's a kind of experience I suggest to every person that has a project to share with the community. It's a way to have honest, direct and immediate feedback on what you're doing and can teach you a lot!
@@ -56,7 +56,7 @@ If you missed the live talk, or would like to watch it again 😶, it's availabl
 While if you would like to learn more about Vanilla OS feel free to visit our website https://vanillaos.org and join our community!
 
 ## Final considerations
-![](https://ilgiornaledellarchitettura.com/wp-content/uploads/2021/06/cop-riga-862x525.jpg)
+<img class="full-w" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/riga_panorama.jpg?raw=true" />
 
 Riga is really nice. Thanks to the presence of the university you can safely walk in the streets of the city center and find a lot of places filled of people ready to talk to you and provide suggestions to live the city. Almost everyone speaks English!
 
