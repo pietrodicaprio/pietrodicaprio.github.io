@@ -265,7 +265,7 @@ article img {
     margin: 0 auto;
 }
 
-img .noradius {
+img.noradius {
     border-radius: 0;
 }
 
