@@ -264,6 +264,14 @@ article img {
     border-radius: 1rem;
 }
 
+img .noradius {
+    border-radius: 0;
+}
+
+.full-w {
+    width: 100%;
+}
+
 /* Card */
 .card {
     border-radius: .5em;
@@ -391,6 +399,8 @@ nav li a.active::after {
 
 nav ul li {
     position: relative;
+    padding-right: 3px;
+    padding-left: 3px;
 }
 
 .card p {
