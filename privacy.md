@@ -52,7 +52,7 @@ We point out that the data controller for all legal purposes is:
 
 *   **pietrodc.dev (Pietro di Caprio)**
 *   Dello (BS)
-*   E-mail: pietro[at]pietrodc.dev
+*   E-mail: pietro[at]fabricators.ltd
 
 To exercise the rights provided for in art. 7 of the Privacy Code or to delete your data from the archive, simply contact us through one of the channels provided
 
