@@ -11,6 +11,7 @@ translation: false
 👋 Hello reader! Welcome to my blog, this looks to be my first publication…\
 I never had a blog, I'm not sure about what/how to write, please forgive me if this reading is not exciting 🥲
 
+
 ## GUADEC 2023 @ Riga
 <img class="full-w" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/latvia_university.avif?raw=true" />
 
@@ -18,8 +19,10 @@ Many of you already know that GUADEC is the acronym for *GNOME Users And Develop
 The conference is a place where to meet people that share interest in Linux, technology in general with particular focus on GNOME (of course!). It's a place where to share ideas, opinions and talk about many topics, not only tech oriented. It's a place where to have fun!\
 This year it was at the University of Riga. The talks in the new building while the BoFs in the old building. A place full of history that removes any thought about its old age.
 
+
 ## Volunteering
 Not only first GUADEC but first volunteering experience too! I've been initially assigned by Deepesha B. to the registration desk, a great occasion to meet all the participants and welcome them to the event. As most people arrived I've been able to jump into the conference rooms and help there with moderation both in person and on the online chats. It made me feel very good to see the smile on the people I helped during the days. A meaningful experience!
+
 
 ## Old friends + new friends = many friends!
 I knew that I was going to meet some folk from a previous event, the LAS 2022 in Rovereto where I presented Bottles, but, as mentioned above, those conferences are a place where to meet new people and new friends!
@@ -45,6 +48,7 @@ The first one, by Cassidy, talks about how apps are listed, by their developers,
 
 The second one, by Mr Aryan Kaushik and Ms Pooja Patel, is about the lack of accessibility to digital products and services: it's a journey that shows how many little important things we leave behind when developing a software or an entire product. There is many people out there with different kind of disabilities from color blindness to deafness. It's really important to always keep this in mind and as a developer is important to know the tools that can help in testing your software in order to ensure it is accessible.
 
+
 ## My own talk
 <img class="full-w" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/gaudec_2023_vos-ppt-cover.png?raw=true" />
 
@@ -55,9 +59,18 @@ If you missed the live talk, or would like to watch it again 😶, it's availabl
 
 While if you would like to learn more about Vanilla OS feel free to visit our website https://vanillaos.org and join our community!
 
+
 ## Final considerations
 <img class="full-w" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/guadec2023/riga_panorama.jpg?raw=true" />
 
 Riga is really nice. Thanks to the presence of the university you can safely walk in the streets of the city center and find a lot of places filled of people ready to talk to you and provide suggestions to live the city. Almost everyone speaks English!
+The organization has been superb and if you missed some talk give a look to the [YouTube Playlist](https://www.youtube.com/playlist?list=PLcb5uDX8FIoCXfTI9t2a47WUDoPG7sIMD).
 
-![https://wiki.gnome.org/Travel](https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/misc/sponsored-by-foundation.png?raw=true)
+A big thank you goes to the GNOME Foundation that partially sponsored my travel and stay to Riga as a GNOME Foundation Member and to my company, fabricators ❤️
+
+<br>
+<a href="https://wiki.gnome.org/Travel" target="_blank" style="padding-right: 20px;">
+<img width="200px" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/misc/sponsored-by-foundation.png?raw=true" />
+</a><a href="https://fabricators.ltd/?ref=pietrodc.dev&post=GUADEC" target="_blank">
+<img width="200px" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/misc/sponsored-by-fabricators.png?raw=true" />
+</a>
