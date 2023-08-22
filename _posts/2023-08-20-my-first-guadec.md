@@ -72,5 +72,5 @@ A big thank you goes to the GNOME Foundation that partially sponsored my travel 
 <a href="https://wiki.gnome.org/Travel" target="_blank" style="padding-right: 20px;">
 <img width="200px" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/misc/sponsored-by-foundation.png?raw=true" />
 </a><a href="https://fabricators.ltd/?ref=pietrodc.dev&post=GUADEC" target="_blank">
-<img width="200px" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/misc/sponsored-by-fabricators.png?raw=true" />
+<img width="230px" src="https://github.com/pietrodicaprio/pietrodicaprio.github.io/blob/main/assets/images/misc/sponsored-by-fabricators.png?raw=true" />
 </a>
