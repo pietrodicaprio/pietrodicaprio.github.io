@@ -18,3 +18,12 @@ No, Outlook Web (OWA) it not good enough. But I'm already too far, let's go back
 
 ## Linux
 Of course I can't switch to Linux without going trough Vanilla OS. Why are you asking? Well, technically I'm one of the board members of Vanilla OS... And I still daily run Windows? Yes, didn´t you read above?
+
+### Errors non errors
+After update, error on screen, no partition change, but all ok
+
+### Fingerprint reader
+The driver of the fingerprint is missing, deb drivers installation on Vanilla OS is not stright away due to sideload
+
+### Loose focus from all windows
+As a multiscreen user ...
